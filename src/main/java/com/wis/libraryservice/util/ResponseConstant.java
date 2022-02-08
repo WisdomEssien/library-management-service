@@ -12,5 +12,8 @@ public final class ResponseConstant {
 	public static final String FAIL_RECORD_NOT_EXIST_CODE = "02";
 	public static final String FAIL_RECORD_NOT_EXIST_MESSAGE = "Record does not exist";
 	
-	public static final String ERROR_SAVING_TO_DATABASE = "Error Occurred while saving to the database \n {}";
+	public static final String ERROR_SAVING_TO_DATABASE = "Error Occurred while saving to the database \n";
+
+	public static final String FAIL_INTERNAL_SERVER_ERROR_CODE = "03";
+	public static final String FAIL_INTERNAL_SERVER_ERROR_MESSAGE = "Opss! Something went wrong while trying to process your request";
 }
