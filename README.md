@@ -43,6 +43,6 @@ _You have to have git installed on your system._
    - Driver Class: org.h2.Driver
 ```
 
-Hope  was helpful
+Hope this was helpful to get you started
 
 [wisdom essien](https://github.com/WisdomEssien/library-management-service.git) © 2022 
