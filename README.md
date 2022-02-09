@@ -33,7 +33,8 @@ _You have to have git installed on your system._
 - Once the project is completely downloaded, launch and import project to your favourite IDE as a maven project.
 - Run application.  
 - Launch the swagger documentation page which can also be used to test the service. [Swagger Documentation](http://localhost:7070/api/swagger-ui.html#/)
-- Launch the database console using this link: [H2 Database Console](http://localhost:7070/api/h2-console/)
+- Launch the database console using this link: [H2 Database Console](http://localhost:7070/api/h2-console/).
+Copy and paste link directly on the browser if you are experiencing any difficulty redirecting.
 - Use the credentials below when prompted to login
 
 ```
