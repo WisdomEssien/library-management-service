@@ -8,11 +8,13 @@ A simple book library application API service with some features such as
 - Edit Book
 - List Books
 - Add Books to category
+- Delete Category/Book
 
 ## Tech/framework used
 
 - Springboot 2.6.3
 - jdk 1.8
+- maven
 - Swagger 2
 - Lombok
 - H2 Database
@@ -21,7 +23,8 @@ A simple book library application API service with some features such as
 
 - Clone project from the git repository using this link [Git Repo](https://github.com/WisdomEssien/library-management-service.git).
 	
-- Open command prompt and navigate to the desired directory
+- Open command prompt and navigate to the desired directory. Copy, paste and execute the git command below on the command prompt.
+_You have to have git installed on your system._
 
 ```
 	git clone -b master https://github.com/WisdomEssien/library-management-service.git
@@ -29,7 +32,7 @@ A simple book library application API service with some features such as
 
 - Once the project is completely downloaded, launch and import project to your favourite IDE as a maven project.
 - Run application.  
-- Launch the swagger documentation page which can also be used to test the service. [Documentation](http://localhost:7070/api/swagger-ui.html)
+- Launch the swagger documentation page which can also be used to test the service. [Swagger Documentation](http://localhost:7070/api/swagger-ui.html#/)
 - Launch the database console using this link: [H2 Database Console](http://localhost:7070/api/h2-console/)
 - Use the credentials below when prompted to login
 
